@@ -2,9 +2,9 @@
 """Defines unittests for models/amenity.py.
 
 Unittest classes:
-    TestAmenity_instantiation
-    TestAmenity_save
-    TestAmenity_to_dict
+    TestAmenity_instantiation_
+    TestAmenity_save_
+    TestAmenity_to_dict_
 """
 import os
 import models

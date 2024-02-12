@@ -2,9 +2,9 @@
 """Defines unittests for models/city.py.
 
 Unittest classes:
-    TestCity_instantiation
-    TestCity_save
-    TestCity_to_dict
+    TestCity_instantiation_
+    TestCity_save_
+    TestCity_to_dict_
 """
 import os
 import models

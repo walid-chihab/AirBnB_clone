@@ -2,9 +2,9 @@
 """Defines unittests for models/base_model.py.
 
 Unittest classes:
-    TestBaseModel_instantiation
-    TestBaseModel_save
-    TestBaseModel_to_dict
+    TestBaseModel_instantiation_
+    TestBaseModel_save_
+    TestBaseModel_to_dict_
 """
 import os
 import models
